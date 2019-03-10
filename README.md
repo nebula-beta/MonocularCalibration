@@ -29,8 +29,8 @@ Once you have compiled the sources run the following command to calibrate the in
 
 The parameters `chessboard_width` and `chessboard_height` don't mean the cols and rows of chessboard, it means internal corners of each rows and cols.
 
-The `chessboard_width = 6` and `chessboard_height = 9` for the belowing chessboard.
-![Image text](./calib_imgs/1/1.jpg)
+The `chessboard_width = 6` and `chessboard_height = 4` for the belowing chessboard. But, in practice, you can change the width and height, which will not affect the calibration results.
+![Image text](./calib_imgs/example.png)
 
 
 
