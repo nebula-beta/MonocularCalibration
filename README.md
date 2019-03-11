@@ -37,12 +37,12 @@ The `chessboard_width = 6` and `chessboard_height = 4` for the belowing chessboa
 
 For example, the command for the test images in ./calib_imgs/1/ would be
 ```bash
-./calib 6 9 ./calib_imgs/1 jpg
+./calib 6 9 ../calib_imgs/1 jpg
 ```
 and the command for the test images in ./calib_imgs/2/ would be
 
 ```bash
-./calib 7 7 ./calib_imgs/1 jpg
+./calib 7 7 ../calib_imgs/2 jpg
 ```
 
 
