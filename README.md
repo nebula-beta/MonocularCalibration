@@ -45,4 +45,3 @@ and the command for the test images in ./calib_imgs/2/ would be
 ./calib 7 7 ../calib_imgs/2 jpg
 ```
 
-
